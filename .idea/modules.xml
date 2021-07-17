@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MCompressor.iml" filepath="$PROJECT_DIR$/MCompressor.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/mcompressor/mcompressor.iml" filepath="$PROJECT_DIR$/mcompressor/mcompressor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MCompressor.iml" filepath="$PROJECT_DIR$/.idea/modules/MCompressor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/MCompressor.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/MCompressor.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/mcompressor/MCompressor.mcompressor.iml" filepath="$PROJECT_DIR$/.idea/modules/mcompressor/MCompressor.mcompressor.iml" />
     </modules>
   </component>
 </project>

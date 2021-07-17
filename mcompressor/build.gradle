@@ -11,7 +11,7 @@ android {
         versionCode config.versionCode
         versionName config.versionName
 
-        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        testInstrumentationRunner 'androidx.test.runner.AndroidJUnitRunner'
 
     }
 
